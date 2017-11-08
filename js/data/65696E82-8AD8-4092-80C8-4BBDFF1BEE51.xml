@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0:1", "", "datos", "EARoot/EA1.htm", "175.png", "1", "0", "", "Logical diagram0","{AED74630-1C57-4809-A51F-38DF3CEC15DE}");
+tocTab[tocTab.length] = new Array("0:2", "", "«table» Cliente", "EARoot/EA3.htm", "28.png", "5", "0", "", "Class0","{EEC86175-EC04-495f-9DE0-B270B72D1B5C}");
+tocTab[tocTab.length] = new Array("0:3", "", "«table» Cliente", "EARoot/EA4.htm", "28.png", "3", "0", "", "Class0","{18B01684-0C0D-4c61-BCDC-F18CF0BE4B7F}");
+tocTab[tocTab.length] = new Array("0:4", "", "«table» detalleMenu", "EARoot/EA5.htm", "28.png", "10", "0", "", "Class0","{70AEC148-ACF2-4b6d-8FFF-5E92575E3C50}");
+tocTab[tocTab.length] = new Array("0:5", "", "«table» Menu", "EARoot/EA6.htm", "28.png", "9", "0", "", "Class0","{7B666F01-E032-4a55-B49B-6EFA02A59E0E}");
+tocTab[tocTab.length] = new Array("0:6", "", "«table» Mesa", "EARoot/EA7.htm", "28.png", "7", "0", "", "Class0","{2CAEFA4C-CE4A-4197-B427-A3382959F3E5}");
+tocTab[tocTab.length] = new Array("0:7", "", "«table» Pedido", "EARoot/EA8.htm", "28.png", "6", "0", "", "Class0","{625473A7-8D53-4f4f-9014-5D091E47F6A3}");
+tocTab[tocTab.length] = new Array("0:8", "", "«table» Producto", "EARoot/EA9.htm", "28.png", "11", "0", "", "Class0","{A0D7815D-4358-48ab-B65F-2CF7F4412FCA}");
+tocTab[tocTab.length] = new Array("0:9", "", "«table» Reserva", "EARoot/EA10.htm", "28.png", "4", "0", "", "Class0","{8E9CF125-4316-4896-9975-FF1130C1B2AC}");
+tocTab[tocTab.length] = new Array("0:10", "", "«table» Usuario", "EARoot/EA11.htm", "28.png", "12", "0", "", "Class0","{7B3E8F70-6C41-4d21-97B3-581E059DAABB}");
+tocTab[tocTab.length] = new Array("0:11", "", "«table» Venta", "EARoot/EA12.htm", "28.png", "8", "0", "", "Class0","{DB32005B-57ED-403d-A874-F5B6B7E19346}");
